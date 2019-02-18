@@ -1,4 +1,4 @@
-# This is Steffen Parratt's MovieLens capstone project
+# This is Steffen Parratt's capstone project
 #
 # Three files:
 # Parratt.R
