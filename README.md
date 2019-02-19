@@ -3,4 +3,4 @@
 # Three files:
 # Parratt.R
 # Parratt.Rmd
-# Parratt.PDF
+# Parratt.pdf
